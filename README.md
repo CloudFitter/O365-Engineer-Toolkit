@@ -18,5 +18,25 @@ Key Features of our O365 Reference and Help Repository:
 
 Whether you're a seasoned O365 expert or just starting your journey with the platform, we hope you find our O365 Reference and Help Repository to be a valuable companion in your O365 endeavors. Together, let's unlock the full potential of Microsoft Office 365!
 
+<h2>Table to Content</h2>
+<table id="myTable" width="100%" border="1" cellpadding="10" cellspacing="1" bordercolor="#B3B3B3" bgcolor="#FFFFFF">
+  <thead>
+   <tr>
+    <th scope="col">Topics</th>
+    <th scope="col">Refer Link</th>
+   </tr>
+  </thead>
 
+  <tbody align="left">
+  <tr>
+   <td>Row1 - Column 1</td>
+   <td>Row1 - Column 2</td>
+  </tr>
 
+  <tr>
+   <td>Row2 - Column 1</td>
+   <td>Row2 - Column 2</td>
+  </tr>
+
+  </tbody>
+</table>
