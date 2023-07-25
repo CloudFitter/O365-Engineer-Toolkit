@@ -20,7 +20,5 @@ Whether you're a seasoned O365 expert or just starting your journey with the pla
 
 <h2>Daily Updates</h2>
 <ul>
-  <li>M365 Product: https://www.microsoft.com/en-us/microsoft-365/blog/</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>M365 Product News and Updates: <a href="https://www.microsoft.com/en-us/microsoft-365/blog/" target="_blank">https://www.microsoft.com/en-us/microsoft-365/blog/</a></li>
 </ul>  
