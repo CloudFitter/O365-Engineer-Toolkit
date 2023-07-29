@@ -20,7 +20,8 @@ Key Features of our O365 Reference and Help Repository:
 Whether you're a seasoned O365 expert or just starting your journey with the platform, we hope you find our O365 Reference and Help Repository to be a valuable companion in your O365 endeavors. Together, let's unlock the full potential of Microsoft Office 365!
 
 **O365 Freinds, Experts can feel free to add contribute any public links to this repo. that can help O365 Enginner and Admins.**
-We are continioulsy and regulary trying to update new links and refrence webiste and blogs
+We are continioulsy and regulary trying to update new links and refrence webiste and blogs. 
+                                                                     For any feedback and suggestion please feel free to email : jituf23@gmail.com
 
 <!DOCTYPE html>
 <html>
