@@ -74,7 +74,7 @@ We are continioulsy and regulary trying to update new links and refrence webiste
             <td><a href="https://support.microsoft.com/en-us/account-billing/work-or-school-account-help-718b3d92-a8a7-4656-8a05-c0228d346b7d" target="_blank">MFA</a></td>
         </tr>
         <tr>
-            <td><a href="https://dynamicconsulting.com/2019/12/27/multi-factor-authentication-in-office-365/" target="_blank">MFA (Additional)</a></td>
+            <td><a href="https://learn.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/multi-factor-authentication-microsoft-365?view=o365-worldwide" target="_blank">MFA (Additional)</a></td>
         </tr>
         <tr>
             <td><a href="https://mha.azurewebsites.net/" target="_blank">Message Header Analyzer</a></td>
